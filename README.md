@@ -50,15 +50,37 @@ Roles are different from Departments or Teams:
 <img src="https://imgur.com/ynhQ2qC.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Next we would create departments. Departments organize where tickets go.
+Next we would create departments. Departments organize where tickets go. Departments represent divisions or categories of your organization that handle different kinds of tickets.
+Each department can have its own settings, agents, email addresses, and permissions.
+
+ Example
+	-	Customer Service
+	-	Technical Support
+	-	Billing Department
+	-	Human Resources
+
+ Importance of Departments
+		Ticket Routing: Incoming tickets are automatically directed to the correct department (e.g., a billing issue → Billing Department).
+		Organization: Keeps tickets sorted by subject area, avoiding confusion or mix-ups.
+		Custom Rules: Each department can have unique autoresponders, signatures, SLA plans, and email addresses.
+		Privacy & Access Control: Tickets in one department can be hidden from agents in another, protecting sensitive information.
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/VxPVxoy.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-After Department is created we now create Teams. Teams group agents who can work across departments
+After Department is created we now create Teams. Teams group agents who can work across departments.
+	 Example
+
+A “Priority Response Team” may include agents from both Customer Service and Technical Support who handle high-priority issues together.
+
+🎯 Importance of Teams
+	1.	Collaboration: Allows agents from different departments to handle tickets together.
+	2.	Flexibility: You can assign tickets to a team even if no single department applies.
+	3.	Backup Coverage: If one department is overloaded, a team can help share the workload.
+	4.	Project-Based Assignments: Ideal for short-term campaigns or special clients (e.g., “Rebel Salute Event Support Team”).
 </p>
 <br />
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>

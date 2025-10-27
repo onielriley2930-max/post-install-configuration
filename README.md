@@ -40,19 +40,16 @@ After everything is working, your first concern should be locking down your inst
 Think of a role as a set of permissions assigned to agents that determines what actions they can perform — such as viewing, replying, assigning, or deleting tickets.
 
 Roles are different from Departments or Teams:
-	•	Departments organize where tickets go.
-	•	Teams group agents who can work across departments.
-	•	Roles define what those agents are allowed to do once they have access.
-
+	
 .
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/ynhQ2qC.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Next we would create departments. Departments organize where tickets go.
 </p>
 <br />
 

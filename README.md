@@ -95,9 +95,28 @@ Next we would create Agents, aslo known as Workers. Agents are your internal sup
 
 </p>
 <br />
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/W2ErXaF.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+And finally End Users. Users are the end customers or clients who submit tickets when they need help.
+They access the Client Portal (front-end) — not the staff panel. 💡 Example
+	•	A customer sending an email to support@yourcompany.com
+	•	A visitor filling out your “Contact Us” form on the osTicket web portal
+
+🎯 Importance of Users
+	1.	Ticket Creation: Every issue starts with a user’s submission — via email, form, or API.
+	2.	Communication: Users receive automatic replies, updates, and resolutions from agents.
+	3.	Customer History: osTicket stores all tickets by user, helping agents review past issues quickly.
+	4.	Self-Service Support: Users can search FAQs and knowledge base articles to resolve common problems without opening a ticket.
 </p>
 <br />
+Real-World Example (osTicket in Action)
+
+Let’s say your company runs Melanin Bliss Holistic Support Desk:
+	•	A User named Shanice sends an email: “My package was damaged.”
+	•	osTicket auto-routes it to the Customer Service Department.
+	•	The ticket is assigned to Agent Oniel who has the “Agent” role.
+	•	Because it’s a priority case, the “Refund Response Team” (cross-department) is added to assist.
+	•	The ticket is resolved, and Shanice receives an email confirmation.
+
+That’s osTicket’s structure working perfectly.

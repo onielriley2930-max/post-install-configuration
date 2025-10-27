@@ -83,10 +83,16 @@ A “Priority Response Team” may include agents from both Customer Service and
 	4.	Project-Based Assignments: Ideal for short-term campaigns or special clients (e.g., “Rebel Salute Event Support Team”).
 </p>
 <br />
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/mEMwPVR.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Next we would create Agents, aslo known as Workers. Agents are your internal support staff — the people who log into the Staff Control Panel to view, respond to, and manage tickets.
+🎯 Importance of Agents
+	1.	Ticket Handling: They are the front line — reading, replying, and resolving customer tickets.
+	2.	Accountability: osTicket tracks which agent worked on which ticket, ensuring transparency.
+	3.	Workflow Control: Agents can reassign, escalate, or close tickets based on their role permissions.
+	4.	Performance Tracking: Reports and analytics show each agent’s response time and ticket resolution rate.
+
 </p>
 <br />
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
